@@ -2,7 +2,7 @@ InstagramClone App
 
 This is an Instagram clone app built using SwiftUI, Xcode, Firebase. It mimics the core features of the Instagram app, including user authentication, posting photos, edit profile, and search users.
 
-Features 
+Features :-
 
 ❖ SignUp 
 
